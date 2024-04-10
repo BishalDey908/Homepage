@@ -5,6 +5,7 @@ import pic3 from "../img/pexels-rick-han-2793466.jpg"
 import pic4 from "../img/pexels-pixabay-276005.jpg"
 import pic5 from "../img/pexels-melike-baran-18387811.jpg"
 import Intro from './Intro'
+import Examples from './Examples'
 
 const Herosection = () => {
   return (
@@ -33,6 +34,7 @@ const Herosection = () => {
         <p >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero laudantium blanditiis sed ratione. Tempore vitae beatae dignissimos, animi ab ullam cum et unde, pariatur omnis consectetur ipsum deserunt rem corporis exercitationem repellendus non quod provident nulla. Eligendi cum modi sint eius rem! Facilis molestias praesentium minus tenetur. Dicta adipisci, ea impedit incidunt neque temporibus odit labore non! Veniam qui nihil ut deserunt ad et! Quaerat veritatis voluptatibus, repellendus, officia magnam perferendis, quae officiis molestiae ullam voluptatem aut blanditiis atque iure porro sit vel dolores distinctio neque vero. Molestias eaque obcaecati molestiae provident pariatur delectus maxime tempora?</p>
       </div>
     </div>
+    <Examples/>
     </div>
   )
 }
